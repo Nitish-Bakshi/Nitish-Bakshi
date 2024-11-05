@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitish Bakshi</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish-bakshi" alt="nitish-bakshi" /></a> </p>
+
 
 - 🌱 I’m currently learning **Fullstack development**
 
